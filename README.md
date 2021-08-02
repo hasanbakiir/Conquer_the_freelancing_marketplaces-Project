@@ -50,6 +50,3 @@ My solutions: I have worked on a lot of web scrapping project where I can make u
 5-Visualization: using React techniques to express all the previous steps in a well-organized graph with different types a high-quality chart.
 My bid to 100 lines of developing code will be 10$ and additional developing code for 5 $ Depending on the deal and the requirements submission date will be discussed
 before beginning the deal: to make it clear want to make sure of some data as your customizations; what is the main purpose of doing this development tool analysis, what is the exact period in order to submit the work, are you going to provide me with developing tool or provide me with the information and get it from the internet and the last question if you have any additional customizations, please tell me at the beginning of the project as not to redo any steps we have done and waste time.
-
-
-![image](https://user-images.githubusercontent.com/62722774/127901509-d72dcc01-76d4-4412-a95e-45be795d4dbd.png)
